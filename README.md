@@ -12,13 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Gugs235/Gugs235/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Gugs235/Gugs235/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif"  />
 
 ###
