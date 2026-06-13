@@ -1,16 +1,16 @@
 <h2 align="left">Olá! 👋 Eu sou o Jhonathan</h2>
 
-💻 Estudante de Sistemas de Informação na UFMS
-
-🚀 Desenvolvedor Full Stack em formação
-
-📚 Técnico em Análise e Desenvolvimento de Sistemas - Senac Hub Academy
-
-⚡ Atualmente trabalhando em projetos com React, Node.js, PostgreSQL e IA
-
-🎯 Interesse em Desenvolvimento Web, SaaS, UX/UI e Automação
-
 ###
+
+
+<div align="left">
+  <a href="https://www.instagram.com/jhonathan_ssoares/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/jhonathan-soares-a37019303/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/2b/cc/0e/2bcc0e11960ebe99ec2c4d402328a970.gif"  />
 
@@ -38,11 +38,16 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/jhonathan_ssoares/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jhonathan-soares-a37019303/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+
+
+
+💻 Estudante de Sistemas de Informação na UFMS
+
+🚀 Desenvolvedor Full Stack em formação
+
+📚 Técnico em Análise e Desenvolvimento de Sistemas - Senac Hub Academy
+
+⚡ Atualmente trabalhando em projetos com React, Node.js, PostgreSQL e IA
+
+🎯 Interesse em Desenvolvimento Web, SaaS, UX/UI e Automação
+
